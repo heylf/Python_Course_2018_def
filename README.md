@@ -2,6 +2,10 @@
 This folder contains the materials used for the introductory course on Python held for the MEINBIO research group.
 Here you can download the code that was used in the lectures 
 
+# Install Python
+https://wiki.python.org/moin/BeginnersGuide/Download
+
+# Install Jupyter
 1) go to: https://pip.pypa.io/en/stable/installation/
     or search: “install pip” and select the first link
 2) download: “get-pip.py” (https://bootstrap.pypa.io/get-pip.py) into you folder, e.g., Downloads
