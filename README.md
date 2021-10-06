@@ -19,3 +19,6 @@ https://wiki.python.org/moin/BeginnersGuide/Download
 (e.g., /home/username/.local/bin/jupyter notebook Python_Course_MeInBio_PART1.ipynb)
 
 The path for MacOS could be slightly different.
+
+# Install Python and Jupyter for Windows
+Just install Anaconda Navigator https://www.anaconda.com/products/individual#windows and start jupyter notebook. 
