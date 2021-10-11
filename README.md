@@ -21,5 +21,4 @@ https://wiki.python.org/moin/BeginnersGuide/Download
 The path for MacOS could be slightly different.
 
 # Install Python and Jupyter for Windows
-All windows users can download and install the software from the following link: https://www.anaconda.com/products/individual#windows​
-It includes both a python 3.8 and a jupyter notebook installation. For starting up jupyter, you can open the anaconda navigator and launch the software which should open a link in your browser.
+All windows users can download and install the software from the following link: https://www.anaconda.com/products/individual#windows. It includes both a python 3.8 and a jupyter notebook installation. For starting up jupyter, you can open the anaconda navigator and launch the software which should open a link in your browser.
