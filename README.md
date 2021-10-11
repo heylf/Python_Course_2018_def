@@ -12,7 +12,7 @@ https://wiki.python.org/moin/BeginnersGuide/Download
 3) open the terminal and type
     1) cd ~/Downloads
     2) python get-pip.py --user
-    3) /home/username/.local/bin/pip -install jupyter --user
+    3) /home/username/.local/bin/pip install jupyter --user
     4) git clone https://github.com/heylf/Python_Course_2018_def.git
     5) cd Python_Course_2018_def
 4) To start a jupyter notebook type: /home/username/.local/bin/jupyter notebook *.ipynb
